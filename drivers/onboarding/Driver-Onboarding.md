@@ -629,7 +629,7 @@ Please take the time to carefully read and understand the Code of Conduct. It co
 *   Prohibited conduct
 *   Consequences of violations
 
-**You can access the full MunchRun Driver Code of Conduct**: [Here](https://github.com/munchrunapp/MunchRun-Docs/tree/main/drivers/Driver-Code-Of-Conduct.md)
+**You can access the full MunchRun Driver Code of Conduct**: [Here](https://github.com/munchrunapp/MunchRun-Docs/blob/main/drivers/Driver-Code-Of-Conduct.md)
 
 Adherence to the Code of Conduct is essential for maintaining a positive and successful relationship with MunchRun, our restaurant partners, and our customers.
 
